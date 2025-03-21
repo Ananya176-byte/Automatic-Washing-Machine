@@ -10,12 +10,14 @@ FEATURES:
 ✅ Follows the standard washing process:
 
 - Door Check
-  
 - Water Filling
-  
 - Detergent Addition
- 
 - Washing Cycle
- 
 - Draining Water 
 - Spinning Clothes
+
+✅ Control signals for valves, motor
+
+✅ Simulated in Xilinx Vivado for functional verification
+
+
